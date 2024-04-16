@@ -12,6 +12,7 @@ public final class DatabaseConstants {
 		
 		private String type;
 
+		
 	    private MedicineType(String type) {
 	      this.type = type;
 	    }
